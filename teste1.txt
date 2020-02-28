@@ -1,1 +1,2 @@
-Aluno 10
+Aluno 1 10
+Aluno 2 9,5
